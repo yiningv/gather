@@ -1,5 +1,3 @@
-# 可能会用到的一些Python库
-
 ## HTTP
 
 - [aiohttp](https://github.com/aio-libs/aiohttp)：基于asyncio的异步HTTP网络库。
