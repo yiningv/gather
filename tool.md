@@ -11,7 +11,6 @@
 - [bottom](https://github.com/ClementTsang/bottom)：现代化top实现，可以跨平台、图形化显示
 - [tealdeer](https://github.com/dbrgn/tealdeer)：一个快速的tldr
 - [zoxide](https://github.com/ajeetdsouza/zoxide)：一个智能的cd替代
-- [starship](https://github.com/starship/starship)：更小、更快的命令行提示
 - [tokie](https://github.com/XAMPPRocky/tokei)：可以分门别类的统计目录内的代码行数
 - [hyperfine](https://github.com/sharkdp/hyperfine)：命令行benchmark工具
 - [grex](https://github.com/pemistahl/grex)：可以根据用户提供的文本示例生成对应的正则表达式
