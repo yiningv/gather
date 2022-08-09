@@ -1,0 +1,24 @@
+## 命令行工具
+
+- [bat](https://github.com/sharkdp/bat)：cat的类似版本，提供了语法高亮和git集成
+- [exa](https://github.com/ogham/exa)：ls命令的现代化实现
+- [lsd](https://github.com/Peltoche/lsd)：下一代的ls命令，增加了很多特性
+- [fd](https://github.com/sharkdp/fd)：一个简单、快速、对用户友好的find实现
+- [procs](https://github.com/dalance/procs)：一个ps的现代化替代
+- [sd](https://github.com/chmln/sd)： sed命令的现代化实现
+- [dust](https://github.com/bootandy/dust)：一个更符合使用习惯的du
+- [ripgrep](https://github.com/BurntSushi/ripgrep)：一个性能极高的现代化grep实现
+- [bottom](https://github.com/ClementTsang/bottom)：现代化top实现，可以跨平台、图形化显示
+- [tealdeer](https://github.com/dbrgn/tealdeer)：一个快速的tldr
+- [zoxide](https://github.com/ajeetdsouza/zoxide)：一个智能的cd替代
+- [starship](https://github.com/starship/starship)：更小、更快的命令行提示
+- [tokie](https://github.com/XAMPPRocky/tokei)：可以分门别类的统计目录内的代码行数
+- [hyperfine](https://github.com/sharkdp/hyperfine)：命令行benchmark工具
+- [grex](https://github.com/pemistahl/grex)：可以根据用户提供的文本示例生成对应的正则表达式
+- [bandwhich](https://github.com/imsnif/bandwhich)：显示进程、连接、远程IP的客户端实用工具
+- [delta](https://github.com/dandavison/delta)：一个git展示工具，支持语法高亮、代码比对、grep
+- [mcfly](https://github.com/cantino/mcfly)：终端中搜索历史命令
+- [fselect](https://github.com/jhspetersson/fselect)：使用SQL语法查找文件
+- [pueue](https://github.com/nukesor/pueue)：命令行任务管理工具，可以管理你的长时间运行的命令，支持顺序或并行执行。
+- [watchexec](https://github.com/watchexec/watchexec)：监视目录文件变动
+- [broot](https://github.com/Canop/broot)：可视化访问目录树
